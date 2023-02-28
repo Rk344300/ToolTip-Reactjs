@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ToolTip-Reactjs/static/css/main.41f00a4a.css",
+    "main.js": "/ToolTip-Reactjs/static/js/main.d85f6486.js",
+    "static/media/4_jpg": "/ToolTip-Reactjs/static/media/4_5800730324002406879.f977dc5eb46ff12acb3d.jpg",
+    "index.html": "/ToolTip-Reactjs/index.html",
+    "main.41f00a4a.css.map": "/ToolTip-Reactjs/static/css/main.41f00a4a.css.map",
+    "main.d85f6486.js.map": "/ToolTip-Reactjs/static/js/main.d85f6486.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41f00a4a.css",
+    "static/js/main.d85f6486.js"
+  ]
+}
